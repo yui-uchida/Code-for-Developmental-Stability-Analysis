@@ -17,6 +17,12 @@ Required inputs:
 
 	Each of the 25 types of organs contains 4 replicates (100 samples in total).
  
- </br>
- All transcriptome data are available in public (Please check "Data availability" in our paper)
- 
+ All transcriptome data aboe are available in public (Please check "Data availability" in our paper)
+</br>
+</br>
+
+5) Developmental transcriptome of medaka (Ichikawa K et al., Nat Commun. 2017;8(1))
+
+6) ATAC-seq data of medaka embryos (Uesaka M et al., Zool Lett. 2019;5:33.)
+
+7) Developmental transcriptome of zebrafish, chiken, mouse (Irie N, Kuratani S. Nat Commun. 2011;2(1).)
